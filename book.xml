@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<catalogue>
+  
+    <book id="1">  
+        <title>A Dream of Red Mansions</title>  
+        <author>Cao Xueqin</author>  
+        <price>59.99</price>  
+    </book>  
+
+    <book id="2">  
+        <title>The Romance of the Three Kingdoms</title>  
+        <author>Luo Guanzhong</author>  
+        <price>49.99</price>  
+    </book>  
+
+</catalogue>

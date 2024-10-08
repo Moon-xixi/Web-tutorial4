@@ -1,0 +1,53 @@
+[  
+    {  
+        "firstName": "Emily",  
+        "lastName": "Martinez",  
+        "email": "emily.martinez@example.com",  
+        "dateOfBirth": "1995-03-22",  
+        "preferences": {  
+            "theme": "dark",  
+            "language": "German",  
+            "notifications": false  
+        },  
+        "address": {  
+            "street": "345 Birch Street",  
+            "city": "Aurora",  
+            "state": "CO",  
+            "zipCode": "80010"  
+        }  
+    },  
+    {  
+        "firstName": "Michael",  
+        "lastName": "Wang",  
+        "email": "michael.wang@example.com",  
+        "dateOfBirth": "1978-12-01",  
+        "preferences": {  
+            "theme": "light",  
+            "language": "Chinese",  
+            "notifications": true  
+        },  
+        "address": {  
+            "street": "678 Cedar Avenue",  
+            "city": "Denver",  
+            "state": "CO",  
+            "zipCode": "80203"  
+        }  
+    },  
+    {  
+        "firstName": "Sophia",  
+        "lastName": "Lee",  
+        "email": "sophia.lee@example.com",  
+        "dateOfBirth": "1992-07-14",  
+        "preferences": {  
+            "theme": "classic",  
+            "language": "Korean",  
+            "notifications": false  
+        },  
+        "address": {  
+            "street": "910 Elm Lane",  
+            "city": "Boulder",  
+            "state": "CO",  
+            "zipCode": "80301"  
+        }  
+    }  
+]
